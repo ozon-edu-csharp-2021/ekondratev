@@ -10,6 +10,7 @@ ProjectSection(SolutionItems) = preProject
 	.gitignore = .gitignore
 	Dockerfile = Dockerfile
 	.dockerignore = .dockerignore
+	docker-compose.yml = docker-compose.yml
 EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonEdu.Merchandise.Service", "src\OzonEdu.Merchandise.Service\OzonEdu.Merchandise.Service.csproj", "{864A7CD4-0635-492E-B626-DFCC1CBDF68B}"
